@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    border: 3px solid green;
+    background-color: antiquewhite;
+    font-size: 50px;
+    font-style: oblique;
+    color: brown;
+    margin-top: 10px;
+    position: static;
+  }
+  .contact
+  {
+    text-align: center;
+    border: 3px solid green;
+    background-color: beige;
+  }

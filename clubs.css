@@ -1,0 +1,24 @@
+body
+{
+    background-color: rgb(137, 230, 230);
+}
+h1 {
+    text-align: center;
+    border: 3px solid green;
+    background-color: antiquewhite;
+    font-size: 50px;
+    font-style: oblique;
+    color: brown;
+    margin-top: 10px;
+    position: static;
+  }
+h2
+{
+    text-align: center;
+}
+.contact
+{
+  text-align: center;
+  border: 3px solid green;
+  background-color: beige;
+}

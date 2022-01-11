@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(127, 184, 231);
+}
+h1 {
+    text-align: center;
+    border: 3px solid green;
+    background-color: antiquewhite;
+    font-size: 50px;
+    font-style: oblique;
+    color: brown;
+    margin-top: 10px;
+    position: static;
+  }
+  p{
+      font-size: 20px;
+  }
+  table, th, td {
+    border: 1px solid black;
+    width: 60%;
+    border-collapse: collapse
+  }
+  th, td {
+    padding: 15px;
+    text-align: centre;
+  }
+  tr
+  {
+      text-align: center;
+  }
+  .contact
+  {
+    text-align: center;
+    border: 3px solid green;
+    background-color: beige;
+  }

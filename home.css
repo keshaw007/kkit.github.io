@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+    border: 3px solid green;
+    background-color: antiquewhite;
+    font-size: 50px;
+    font-style: oblique;
+    color: brown;
+    margin-top: 10px;
+    position: static;
+  }
+
+  ul {
+    font-size: 16px;
+    position: relative;
+    top: 30px;
+    width: 100%;
+    list-style-type: none;
+    margin: 25;
+    padding: 100;
+    overflow: hidden;
+    background-color: rgb(218, 172, 172);
+  }
+  li
+  {
+      float: left;
+  }
+
+  li a {
+    display: flexbox;
+    color: rgb(35, 70, 224);
+    text-align: center;
+    padding: 15px 45px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: rgb(226, 14, 25);
+  }
+
+  .container
+  {
+      margin-top: 60px;
+      width: 0px;
+      object-fit: contain;
+
+  }
+
+.dpic
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.contact
+{
+  text-align: center;
+  border: 3px solid green;
+  background-color: beige;
+}
+.add
+{
+  margin-left: 10px;
+}
